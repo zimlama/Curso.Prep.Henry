@@ -33,7 +33,7 @@ Los operadores logicos nos permiten realizar una operacion entre dos valores boo
 
 |  |  | AND | OR | NOT |
 | --- | --- | --- | --- | --- |
-| p | q | p && q | p || q | !p |
+| 'p' | 'q' | 'p && q' | 'p || q' | '!p' |
 | true | true | true | true | false |
 | true | false | false | true | false |
 | false | true | false | true | true |

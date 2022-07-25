@@ -1,0 +1,18 @@
+h1 {
+    color: limegreen;
+}
+img {
+    width: 400px;
+}
+#thirdDiv {
+    width: 600px;
+    height: 500px;
+    background-color: lemonchiffon;
+    padding: 50px;
+    border: 2px solid limegreen;
+    border-style: dotted;
+}
+#spanId {
+    font-size:18px;
+    margin: 50px;
+}
